@@ -9,6 +9,7 @@
       "writing-plugins"
     ],
     "Integrations": [
+      "kaizenplatform",
       "integrations"
     ]
   }
